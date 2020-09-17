@@ -1,6 +1,4 @@
-# Hi there 👋 I'm Lizz (they.them),
-
-I'm a (mostly) wholesome weirdo and fellow code nerd 🤓 🌈 
+# Hi there 👋 I'm Lizz (they.them), I'm a (mostly) wholesome weirdo and fellow code nerd 🤓 🌈 
 
 I'm on a mission to prove that people without a traditional four-year education can excel in the tech industry. I believe that user experience and accessibility advocates need strong allies in web developers, devs who believe that making things well and according to standards is a high priority because people are at the very center of everything we build.
 
