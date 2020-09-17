@@ -11,18 +11,19 @@ I'm focused on:
 
 ## My Core Values 💕
 
-**Empathy**
+**#####Empathy**
 
 For me, everything comes down to the humans we work with and build products for. 
 
-**Education**
+**#####Education**
 
 I'm a life long learner, and I value curiosity and a growth mindset.
  
-**Community**
+**#####Community**
 A true community is diverse and lifts people up beyond the potential they see in themselves. 
 
-**Fun**
+**#####Fun**
+
 We should never take ourselves too seriousy and play is essenital for a truly joyful life. 
 
 <!--
