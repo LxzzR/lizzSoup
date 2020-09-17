@@ -9,19 +9,19 @@ I'm focused on:
 * Product vision and big picture thinking
 * Human-centered approach to coding and teamwork
 
-## My Core Values 💕
+## My Core Values 🥇
 
-**Empathy**
-* For me, everything comes down to the humans we work with and build products for. 
+**Empathy** 💕
+For me, everything comes down to the humans we work with and build products for. 
 
-**Education**
-* I'm a life long learner, and I value curiosity and a growth mindset.
+**Education** 📚
+I'm a life long learner and I value curiosity, cultivating positive learning cultures, and advocating for a growth mindset. I think the best question we can ask is "why?". 
  
-**Community**
-* A true community is diverse and lifts people up beyond the potential they see in themselves. 
+**Community** 🌍
+A true community is diverse and lifts people up beyond the potential they see in themselves. 
 
-**Fun**
-* We should never take ourselves too seriousy and play is essenital for a truly joyful life. 
+**Fun** 🕺🏻
+We should never take ourselves too seriousy and play is essenital for a truly joyful life. 
 
 <!--
 **lizzSoup/lizzSoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
