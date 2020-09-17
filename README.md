@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I'm on a mission to prove that people without a traditional four-year education can excel in the tech industry. User experience and accessibility advocates need strong allies in web developers, devs who believe that making things well and according to standards is a high priority because people are at the very center of everything we build.
+I'm on a mission to prove that people without a traditional four-year education can excel in the tech industry. I believe that user experience and accessibility advocates need strong allies in web developers, devs who believe that making things well and according to standards is a high priority because people are at the very center of everything we build.
 
 I'm a frontend web developer with 2 years of experience studying Frontend Web Development, User Interface Fundamentals, and User Experience Theory, and over 2 years of experience working on a management team. I'm interested in building products with a strong focus on industry standards, usability, and accessibility.
 
