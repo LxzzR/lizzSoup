@@ -10,7 +10,7 @@ I'm focused on:
 * Product vision and big picture thinking
 * Human-centered approach to coding and teamwork
 
-## My Core Values 💕 📚 
+## What I Care About 💕 📚 
 
 ### Empathy
 
