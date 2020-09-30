@@ -25,7 +25,7 @@ I'm a life long learner and I value curiosity, cultivating positive learning cul
 A true community is diverse and lifts people up beyond the potential they see in themselves. 
 
 ### Playfulness 
-We should never take ourselves too seriousy and play is essenital for a truly joyful life, and definitely has a place in the workplace. 
+We should never take ourselves too seriously. Play is essenital for a truly joyful life, and definitely has a place in the workplace. 
 
 <!--
 **lizzSoup/lizzSoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
