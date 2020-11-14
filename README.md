@@ -1,9 +1,8 @@
 # Hi! I'm Lizz (they.them), a fellow code nerd 🤓 🌈 
 
-## About 
 I'm on a mission to prove that people without a traditional four-year education can excel in the tech industry. I believe that user experience and accessibility advocates need strong allies in web developers, devs who believe that making things well and according to standards is a high priority because people are at the very center of everything we build.
 
-I'm focused on:
+## I'm focused on:
 * Writing clean, readable and usable code
 * Learning and comforming to industry standards
 * Coding delightful web experiences
